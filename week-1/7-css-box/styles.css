@@ -3,4 +3,14 @@
   border: 1px solid #4491db;
   border-radius: 4px;
   background: #fff;
+  padding: 0.5 mm;
+}
+
+.countries {
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.country {
+  padding: 3mm;
 }
