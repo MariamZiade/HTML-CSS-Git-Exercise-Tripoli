@@ -101,7 +101,8 @@ git checkout red_links
 git push -u origin red_links
 ```
 
-_Hint: You only have to use this extra information the first time you push a new branch. After that, you can push to your branch with just `git push`._
+_Hint: You only have
+to use this extra information the first time you push a new branch. After that, you can push to your branch with just `git push`._
 
 Using this technique, try to successfully push your `green_links` branch.
 
